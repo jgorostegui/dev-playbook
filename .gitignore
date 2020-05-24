@@ -1,0 +1,9 @@
+*_trash*
+*.orig
+*.pyc
+*.swp
+*.log
+.vscode
+.vagrant
+.venv
+setup.retry
